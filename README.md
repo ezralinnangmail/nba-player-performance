@@ -1,2 +1,12 @@
-# nba-player-performance
-A predictive model in Python to estimate NBA player scoring performance using historical game data, performing feature engineering and exploratory analysis and evaluating multiple regression models.
+# NBA Player Performance Prediction
+
+This project explores whether NBA player scoring performance can be predicted using historical game data and basic machine learning models in Python.
+
+## Tools Used
+- Python
+- pandas
+- scikit-learn
+- matplotlib
+
+## Project Status
+In progress
